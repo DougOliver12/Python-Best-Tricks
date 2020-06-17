@@ -1,2 +1,2 @@
 # Python Best Tricks
-Conjunto de códigos com macetes para diversas aplicações
+Conjunto de códigos com macetes para diversas aplicações em python
